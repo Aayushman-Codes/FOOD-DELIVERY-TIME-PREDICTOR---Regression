@@ -18,6 +18,6 @@ This model was built on Kaggle Notebook since the code might not work on Jupyter
 
 Type of Model: Regression (Linear & Logical) [Machine Learning]
 
-Objective: Predict estimated food delivery time based on various features like distance, restaurant rating, delivery partner experience, etc.
+Objective:  The goal od this model is to predict food delivery times based on customer location, restaurant location, weather, traffic, and other factors. This involves both data preprocessing and building predictive models using linear regression and logistic regression.
 
 Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
