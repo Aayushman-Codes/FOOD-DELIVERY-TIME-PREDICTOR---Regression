@@ -1,6 +1,6 @@
 # FOOD DELIVERY TIME PREDICTOR - Regression
 **Food delivery time prediction Model using logical and linear regression** 
-This model was built on Kaggle Notebook since the code might not work on Jupyter Notebook due to version diferences or thw use of Jupyter Web (which isnt the problem with Kaggle Notebook). The main source code utilises Machine Learning Algorithms specified to give the required output (included with the code itself).
+This model was built on Kaggle Notebook since the code might not work on Jupyter Notebook due to version diferences or the use of Jupyter Web (which isnt the problem with Kaggle Notebook). The main source code utilises Machine Learning Algorithms specified to give the required output (included with the code itself).
 
 **Original Kaggle Notebook Link:** https://www.kaggle.com/code/aayushmancodez/food-delivery-time-predictor-v4/notebook
 
